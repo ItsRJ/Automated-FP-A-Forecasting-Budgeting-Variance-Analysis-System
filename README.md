@@ -11,3 +11,22 @@ Python-based FP&A automation project simulating a Indian supermarket. Includes r
    
 Since the company is in the supermarket industry,it runs on high volume and low margin economics making precise forecasting and cost control important.
 
+##🎯 FP&A Objective
+
+The FP&A team is responsible for:
+
+* Monthly close & management reporting
+
+* Rolling 12-month forecasts
+
+* Annual budgeting
+
+* Scenario planning in response to:
+
+ 1.Inflation
+
+ 2.Supplier price changes
+
+ 3.Consumer demand shifts
+
+The goal of this project is to automate and standardize FP&A reporting and forecasting using Python.
