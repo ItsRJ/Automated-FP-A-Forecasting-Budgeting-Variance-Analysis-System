@@ -5,7 +5,7 @@ Python-based FP&A automation project simulating a Indian supermarket. Includes r
 
 ## Company Context:
 
- * 4000+ physical stores across X country
+ * 4000+ physical stores across the country
  * Growing online and home-delivery business (done through the website and the app)
  * Several private labeled and branded products (similar to products sold by Walmart)
    
