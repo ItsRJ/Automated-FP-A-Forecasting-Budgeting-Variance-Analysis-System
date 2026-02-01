@@ -30,3 +30,24 @@ The FP&A team is responsible for:
   - Consumer demand shifts
 
 The goal of this project is to automate and standardize FP&A reporting and forecasting using Python.
+
+## Business Model (FP&A View)
+* Revenue Streams
+
+  * In-store sales
+
+  * Online grocery delivery
+
+  * Private-label products (higher margin)
+
+* Major Cost Buckets
+
+  * Cost of Goods Sold (supplier pricing)
+
+  * Logistics & distribution
+
+  * Store labor
+
+  * Energy & rent
+
+  * Marketing & promotions
