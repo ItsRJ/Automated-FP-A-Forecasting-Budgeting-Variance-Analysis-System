@@ -51,3 +51,24 @@ The goal of this project is to automate and standardize FP&A reporting and forec
   * Energy & rent
 
   * Marketing & promotions
+
+## FP&A Reporting Cycle
+* Monthly Close
+
+  * Actuals pulled from ERP & POS systems
+
+  * Store and category-level performance reviewed
+
+* Forecast Update
+
+  * Remaining months re-forecasted every month
+
+  * Seasonality considered (holidays, promotions)
+
+* Management Review
+
+  * Variance explanations
+
+  * Margin pressure analysis
+
+  * Cost inflation impact
