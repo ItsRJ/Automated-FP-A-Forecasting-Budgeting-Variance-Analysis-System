@@ -23,10 +23,10 @@ The FP&A team is responsible for:
 
 * Scenario planning in response to:
 
- - Inflation
+  - Inflation
 
- - Supplier price changes
+  - Supplier price changes
 
- - Consumer demand shifts
+  - Consumer demand shifts
 
 The goal of this project is to automate and standardize FP&A reporting and forecasting using Python.
