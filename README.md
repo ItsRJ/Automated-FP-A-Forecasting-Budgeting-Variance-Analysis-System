@@ -91,7 +91,7 @@ Manual Excel models struggle to handle this complexity consistently
 
 ## How my project helps:
 
-* Inputs actuaks, budgets and assumptions
+* Inputs actuals, budgets and assumptions
 * Generates rolling forecasts
 * Performs analysis >Budget vs Actuals and Forecast vs Actuals
 * Models for Best, Base and Worst case scenerios
@@ -100,8 +100,8 @@ Manual Excel models struggle to handle this complexity consistently
 ### Example
 
 A sudden 5% supplier cost increase in Milk 
-->> Model impact on gross margin
-->>Run downside scenerio
-->>Quantify EBIDTA risk
+- >> Model impact on gross margin
+- >>Run downside scenerio
+- >>Quantify EBIDTA risk
 
 This will help in pricing and promotion decision
