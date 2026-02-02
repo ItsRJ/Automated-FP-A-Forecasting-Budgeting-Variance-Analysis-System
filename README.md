@@ -1,5 +1,5 @@
 # Automated FP&A - Forecasting,Budgeting,Variance Analysis System
-Python-based FP&A automation project simulating a Indian supermarket. Includes rolling 12-month forecasts, budget vs actual and forecast variance analysis, KPI tracking (EBITDA, margins), scenario modelling, and automated Excel reporting—mirroring real corporate FP&A workflows.
+Python-based FP&A automation project simulating a Indian supermarket. Includes rolling 12-month forecasts, budget vs actual and forecast variance analysis, KPI tracking (EBITDA, margins), scenario modelling, and automated Excel reporting—mirroring real corporate FP&A workflows
 
 # Business Framing: FP&A Automation for a Top Indian Supermarket
 
@@ -9,7 +9,7 @@ Python-based FP&A automation project simulating a Indian supermarket. Includes r
  * Growing online and home-delivery business (done through the website and the app)
  * Several private labeled and branded products (similar to products sold by Walmart)
    
-Since the company is in the supermarket industry,it runs on high volume and low margin economics making precise forecasting and cost control important.
+Since the company is in the supermarket industry,it runs on high volume and low margin economics making precise forecasting and cost control important
 
 ## FP&A Objective
 
@@ -29,7 +29,7 @@ The FP&A team is responsible for:
 
   - Consumer demand shifts
 
-The goal of this project is to automate and standardize FP&A reporting and forecasting using Python.
+The goal of this project is to automate and standardize FP&A reporting and forecasting using Python
 
 ## Business Model (FP&A View)
 * Revenue Streams
@@ -72,3 +72,36 @@ The goal of this project is to automate and standardize FP&A reporting and forec
   * Margin pressure analysis
 
   * Cost inflation impact
+ 
+
+## Forecasting Challenges (Why Automation Matters)
+
+* Volatile food inflation
+
+* Supplier cost pass-through delays
+
+* Promotional discounting impact
+
+* Energy price swings
+
+* Online vs store margin differences
+
+Manual Excel models struggle to handle this complexity consistently
+
+
+## How my project helps:
+
+* Inputs actuaks, budgets and assumptions
+* Generates rolling forecasts
+* Performs analysis >Budget vs Actuals and Forecast vs Actuals
+* Models for Best, Base and Worst case scenerios
+* Produces Excel reports good enough for management
+
+### Example
+
+A sudden 5% supplier cost increase in Milk 
+->> Model impact on gross margin
+->>Run downside scenerio
+->>Quantify EBIDTA risk
+
+This will help in pricing and promotion decision
